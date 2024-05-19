@@ -1,5 +1,6 @@
 /*
 Struktur Data Materi 01 Soal No 1
+Menghitung Gaji Harian Pekerja
 By hafizhhasyhari
 */
 
